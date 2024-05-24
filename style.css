@@ -1,0 +1,50 @@
+body{
+    background-image: linear-gradient(rgba(2,0,0,0.75),rgba(0,0,0,0.75)),url(./traffic_lights.jpg);
+}
+#tables{
+background-color: grey;
+width: 200px;
+height: 300px;
+
+}
+
+#tables div{
+width: 100px;
+height: 100px;
+
+}
+.Buttons{
+width: 75px;
+height: 75px;
+border-radius: 50%;
+margin-top: 8px;
+margin-left:55%;
+background-color: black;
+border: 1px solid black;
+
+}
+.input_buttons{
+margin-top: 10px;
+
+}
+#start{
+background-color:green;
+border: 2px solid black;
+border-radius: 10px;
+}
+#stop{
+background-color:red;
+border: 2px solid black;
+border-radius: 10px;
+}
+
+#slow{
+background-color:yellow;
+border: 2px solid black;
+border-radius: 10px;
+}
+#reset{
+background-color:wheat;
+border: 2px solid black;
+border-radius: 10px;
+}
